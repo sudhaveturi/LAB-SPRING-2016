@@ -18,7 +18,7 @@ Grant proposals: if time permit we will include on section on grant writing (for
  * **Date**:  Wednesday, January 20, 2016.
  * **Time**:  1:45-2:45pm
  * **Room**:  Central Conference Room
- * **Presenter(s)**: 
+ * **Presenter(s)**: Agustin 
  * **Topic(s)**:    
  * **Materials**:    
  
