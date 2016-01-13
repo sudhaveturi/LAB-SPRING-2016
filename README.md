@@ -29,18 +29,22 @@ Grant proposals: if time permit we will include on section on grant writing (for
  * **Date**:  Wednesday, January 27, 2016.
  * **Time**:  1:45-2:45pm
  * **Room**:  Central Conference Room
- * **Presenter(s)**: 
+ * **Presenter(s)**: Hank Wu
  * **Topic(s)**:    
- * **Materials**:    
+ * **Materials**:
+    * [Article]()
+    * [Slides]()
  
 ----------------------------------------------------------------------------
 
  * **Date**:  Wednesday, February 3, 2016.
  * **Time**:  1:45-2:45pm
  * **Room**:  Central Conference Room
- * **Presenter(s)**: 
- * **Topic(s)**:    
- * **Materials**:    
+ * **Presenter(s)**: Yeni
+ * **Topic(s)**: Limitation of GCTA   
+ * **Materials**: 
+    * [Article]()
+    * [Slides]()
 
 ----------------------------------------------------------------------------
 
