@@ -51,9 +51,11 @@ Grant proposals: if time permit we will include on section on grant writing (for
  * **Date**:  Wednesday, February 10, 2016.
  * **Time**:  1:45-2:45pm
  * **Room**:  Central Conference Room
- * **Presenter(s)**: 
- * **Topic(s)**:    
- * **Materials**:    
+ * **Presenter(s)**: Mengying
+ * **Topic(s)**: Why significant variables are not automatically good predictors  
+ * **Materials**:  
+    * [Article](https://github.com/QuantGen/LAB-SPRING-2016/blob/master/Mengying_Paper_Why%20sig%20var%20not%20Good%20Predictor.pdf)
+    * [Slides]()
 
 ----------------------------------------------------------------------------
 
