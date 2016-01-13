@@ -19,10 +19,10 @@ Grant proposals: if time permit we will include on section on grant writing (for
  * **Time**:  1:45-2:45pm
  * **Room**:  Central Conference Room
  * **Presenter(s)**: Agustin 
- * **Topic(s)**:    
+ * **Topic(s)**: DNA Methylation   
  * **Materials**: 
     * [Article](https://github.com/QuantGen/LAB-SPRING-2016/blob/master/Agustin_Paper_DNA%20Methylation.pdf)
-    * [Slides]
+    * [Slides]()
  
 ----------------------------------------------------------------------------
 
