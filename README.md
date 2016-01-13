@@ -17,7 +17,7 @@ Grant proposals: if time permit we will include on section on grant writing (for
 --------------------------------------
 
  * **Date**:  Wednesday, Jan. 20, 2016.
- * **Time**:  2:00-3:00pm
+ * **Time**:  1:45-2:45pm
  * **Place**: 
  * **Presenter(s)**: 
  * **Topic(s)**:    
