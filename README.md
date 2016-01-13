@@ -15,12 +15,120 @@ Grant proposals: if time permit we will include on section on grant writing (for
 ## Schedule
 ----------------------------------------------------------------------------
 
- * **Date**:  Wednesday, Jan. 20, 2016.
+ * **Date**:  Wednesday, January 20, 2016.
  * **Time**:  1:45-2:45pm
  * **Room**:  Central Conference Room
  * **Presenter(s)**: 
  * **Topic(s)**:    
  * **Materials**:    
+----------------------------------------------------------------------------
+
+ * **Date**:  Wednesday, January 27, 2016.
+ * **Time**:  1:45-2:45pm
+ * **Room**:  Central Conference Room
+ * **Presenter(s)**: 
+ * **Topic(s)**:    
+ * **Materials**:    
+----------------------------------------------------------------------------
+
+ * **Date**:  Wednesday, February 3, 2016.
+ * **Time**:  1:45-2:45pm
+ * **Room**:  Central Conference Room
+ * **Presenter(s)**: 
+ * **Topic(s)**:    
+ * **Materials**:    
+----------------------------------------------------------------------------
+
+ * **Date**:  Wednesday, February 10, 2016.
+ * **Time**:  1:45-2:45pm
+ * **Room**:  Central Conference Room
+ * **Presenter(s)**: 
+ * **Topic(s)**:    
+ * **Materials**:    
+----------------------------------------------------------------------------
+
+ * **Date**:  Wednesday, February 17, 2016.
+ * **Time**:  1:45-2:45pm
+ * **Room**:  Central Conference Room
+ * **Presenter(s)**: 
+ * **Topic(s)**:    
+ * **Materials**:    
+----------------------------------------------------------------------------
+
+ * **Date**:  Wednesday, February 24, 2016.
+ * **Time**:  1:45-2:45pm
+ * **Room**:  Central Conference Room
+ * **Presenter(s)**: 
+ * **Topic(s)**:    
+ * **Materials**:    
+----------------------------------------------------------------------------
+
+ * **Date**:  Wednesday, March 2, 2016.
+ * **Time**:  1:45-2:45pm
+ * **Room**:  Central Conference Room
+ * **Presenter(s)**: 
+ * **Topic(s)**:    
+ * **Materials**:    
+----------------------------------------------------------------------------
+
+ *  Wednesday,  March 9, 2016. **(No Lab Meeting, Spring Break)**
+    
+----------------------------------------------------------------------------
+
+ * **Date**:  Wednesday,  March 16, 2016.
+ * **Time**:  1:45-2:45pm
+ * **Room**:  Central Conference Room
+ * **Presenter(s)**: 
+ * **Topic(s)**:    
+ * **Materials**:    
+---------------------------------------------------------------------------- 
+ * **Date**:  Wednesday,  March 23, 2016.
+ * **Time**:  1:45-2:45pm
+ * **Room**:  Central Conference Room
+ * **Presenter(s)**: 
+ * **Topic(s)**:    
+ * **Materials**:    
+----------------------------------------------------------------------------
+
+ * **Date**:  Wednesday,  March 30, 2016.
+ * **Time**:  1:45-2:45pm
+ * **Room**:  Central Conference Room
+ * **Presenter(s)**: 
+ * **Topic(s)**:    
+ * **Materials**:    
+----------------------------------------------------------------------------
+
+ * **Date**:  Wednesday,  April 6, 2016.
+ * **Time**:  1:45-2:45pm
+ * **Room**:  Central Conference Room
+ * **Presenter(s)**: 
+ * **Topic(s)**:    
+ * **Materials**:    
+----------------------------------------------------------------------------
+
+ * **Date**:  Wednesday,  April 13, 2016.
+ * **Time**:  1:45-2:45pm
+ * **Room**:  Central Conference Room
+ * **Presenter(s)**: 
+ * **Topic(s)**:    
+ * **Materials**:    
+----------------------------------------------------------------------------
+
+ * **Date**:  Wednesday,  April 20, 2016.
+ * **Time**:  1:45-2:45pm
+ * **Room**:  Central Conference Room
+ * **Presenter(s)**: 
+ * **Topic(s)**:    
+ * **Materials**:    
+----------------------------------------------------------------------------
+
+ * **Date**:  Wednesday,  April 27, 2016.
+ * **Time**:  1:45-2:45pm
+ * **Room**:  Central Conference Room
+ * **Presenter(s)**: 
+ * **Topic(s)**:    
+ * **Materials**:    
+----------------------------------------------------------------------------
 
 
 
