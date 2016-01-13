@@ -12,20 +12,19 @@ Software: we will organize 1-2 sections to share software being developed by the
 Grant proposals: if time permit we will include on section on grant writing (format to be determined).
 
 
-### Schedule
-
---------------------------------------
+## Schedule
+----------------------------------------------------------------------------
 
  * **Date**:  Wednesday, Jan. 20, 2016.
  * **Time**:  1:45-2:45pm
- * **Place**: 
+ * **Room**:  Central Conference Room
  * **Presenter(s)**: 
  * **Topic(s)**:    
  * **Materials**:    
 
 
 
-### Suggested Papers
+## Suggested Papers
 
  
 * [ Lo et al., Why significant variables aren’t automatically good predictors (PNAS, 2015) ] (http://www.pnas.org/content/112/45/13892.abstract)
