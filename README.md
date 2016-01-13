@@ -43,7 +43,7 @@ Grant proposals: if time permit we will include on section on grant writing (for
  * **Presenter(s)**: Yeni
  * **Topic(s)**: Limitation of GCTA   
  * **Materials**: 
-    * [Article]()
+    * [Article](https://github.com/QuantGen/LAB-SPRING-2016/blob/master/Yeni_Paper_Limitation%20of%20GCTA.pdf)
     * [Slides]()
 
 ----------------------------------------------------------------------------
