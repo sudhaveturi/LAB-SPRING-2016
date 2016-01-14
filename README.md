@@ -73,7 +73,7 @@ Grant proposals: if time permit we will include on section on grant writing (for
  * **Time**:  1:45-2:45pm
  * **Room**:  Central Conference Room
  * **Presenter(s)**: Mengying
- * **Topic(s)**: Why significant variables are not automatically good predictors  
+ * **Topic(s)**: Significancy vs prediction power, partition retention method 
  * **Materials**:  
     * [Article](http://www.pnas.org/content/112/45/13892.abstract)
     * [Slides]()
