@@ -62,7 +62,7 @@ Grant proposals: if time permit we will include on section on grant writing (for
  * **Date**:  Wednesday, February 17, 2016.
  * **Time**:  1:45-2:45pm
  * **Room**:  Central Conference Room
- * **Presenter(s)**: Jiayu Zhou
+ * **Presenter(s)**: Prof. Jiayu Zhou
  * **Topic(s)**: Multi-task Learning and its Applications   
  * **Materials**:   
     * [Homepage](http://jiayuzhou.github.io/)
