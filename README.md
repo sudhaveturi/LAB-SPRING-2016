@@ -62,11 +62,9 @@ Grant proposals: if time permit we will include on section on grant writing (for
  * **Date**:  Wednesday, February 17, 2016.
  * **Time**:  1:45-2:45pm
  * **Room**:  Central Conference Room
- * **Presenter(s)**: Jiayu Zhou
- * **Topic(s)**: Multi-task Learning and its Applications   
- * **Materials**:   
-    * [Homepage](http://jiayuzhou.github.io/)
-
+ * **Presenter(s)**: 
+ * **Topic(s)**:    
+ * **Materials**:    
 
 ----------------------------------------------------------------------------
 
@@ -82,9 +80,11 @@ Grant proposals: if time permit we will include on section on grant writing (for
  * **Date**:  Wednesday, March 2, 2016.
  * **Time**:  1:45-2:45pm
  * **Room**:  Central Conference Room
- * **Presenter(s)**: 
+ * **Presenter(s)**: Sudha
  * **Topic(s)**:    
  * **Materials**:    
+    * [Article1](http://www.nature.com/ng/journal/v47/n12/full/ng.3431.html) or [Article1](http://www.tandfonline.com/doi/full/10.1080/01621459.2013.823775#abstract)
+    * [Slides]()
 
 ----------------------------------------------------------------------------
 
