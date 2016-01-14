@@ -18,6 +18,16 @@ Grant proposals: if time permit we will include on section on grant writing (for
  * **Date**:  Wednesday, January 20, 2016.
  * **Time**:  1:45-2:45pm
  * **Room**:  Central Conference Room
+ * **Presenter(s)**: Gustavo
+ * **Topic(s)**: Discussion about Lab Meeting   
+ * **Materials**: 
+
+ 
+----------------------------------------------------------------------------
+
+ * **Date**:  Wednesday, January 27, 2016.
+ * **Time**:  1:45-2:45pm
+ * **Room**:  Central Conference Room
  * **Presenter(s)**: Agustin 
  * **Topic(s)**: DNA Methylation   
  * **Materials**: 
@@ -26,35 +36,24 @@ Grant proposals: if time permit we will include on section on grant writing (for
  
 ----------------------------------------------------------------------------
 
- * **Date**:  Wednesday, January 27, 2016.
- * **Time**:  1:45-2:45pm
- * **Room**:  Central Conference Room
- * **Presenter(s)**: Hank Wu
- * **Topic(s)**:    
- * **Materials**:
-    * [Article]()
-    * [Slides]()
- 
-----------------------------------------------------------------------------
-
  * **Date**:  Wednesday, February 3, 2016.
  * **Time**:  1:45-2:45pm
  * **Room**:  Central Conference Room
- * **Presenter(s)**: Yeni
- * **Topic(s)**: Limitation of GCTA   
- * **Materials**: 
-    * [Article](https://github.com/QuantGen/LAB-SPRING-2016/blob/master/Yeni_Paper_Limitation%20of%20GCTA.pdf)
+ * **Presenter(s)**: Hank Wu
+ * **Topic(s)**: Identify Cis-eQTL Target Gene associated with GBM   
+ * **Materials**:
+    * [Article](https://github.com/QuantGen/LAB-SPRING-2016/blob/master/Hank_Paper_GBM%20eQTL.pdf)
     * [Slides]()
-
+ 
 ----------------------------------------------------------------------------
 
  * **Date**:  Wednesday, February 10, 2016.
  * **Time**:  1:45-2:45pm
  * **Room**:  Central Conference Room
- * **Presenter(s)**: Mengying
- * **Topic(s)**: Why significant variables are not automatically good predictors  
- * **Materials**:  
-    * [Article](https://github.com/QuantGen/LAB-SPRING-2016/blob/master/Mengying_Paper_Why%20sig%20var%20not%20Good%20Predictor.pdf)
+ * **Presenter(s)**: Yeni
+ * **Topic(s)**: Limitation of GCTA   
+ * **Materials**: 
+    * [Article](http://www.pnas.org/content/113/1/E61.full.pdf)
     * [Slides]()
 
 ----------------------------------------------------------------------------
@@ -73,9 +72,11 @@ Grant proposals: if time permit we will include on section on grant writing (for
  * **Date**:  Wednesday, February 24, 2016.
  * **Time**:  1:45-2:45pm
  * **Room**:  Central Conference Room
- * **Presenter(s)**: 
- * **Topic(s)**:    
- * **Materials**:    
+ * **Presenter(s)**: Mengying
+ * **Topic(s)**: Why significant variables are not automatically good predictors  
+ * **Materials**:  
+    * [Article](http://www.pnas.org/content/112/45/13892.abstract)
+    * [Slides]()
 
 ----------------------------------------------------------------------------
 
