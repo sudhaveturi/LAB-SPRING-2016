@@ -50,7 +50,7 @@ Grant proposals: if time permit we will include on section on grant writing (for
  * **Time**:  1:45-2:45pm
  * **Room**:  Central Conference Room
  * **Presenter(s)**: Yeni
- * **Topic(s)**: Limitation of GCTA   
+ * **Topic(s)**: Limitations of GCTA   
  * **Materials**: 
     * [Article](http://www.pnas.org/content/113/1/E61.full.pdf)
 
