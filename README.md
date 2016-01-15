@@ -18,9 +18,9 @@ Grant proposals: if time permit we will include on section on grant writing (for
  * **Date**:  Wednesday, January 20, 2016.
  * **Time**:  1:45-2:45pm
  * **Room**:  Central Conference Room
- * **Presenter(s)**: Gustavo
- * **Topic(s)**: Discussion about Lab Meeting   
- * **Materials**: 
+ * **Presenter(s)**: NA
+ * **Topic(s)**: Organizational meeting
+ * **Materials**: NA
 
  
 ----------------------------------------------------------------------------
@@ -157,7 +157,7 @@ Grant proposals: if time permit we will include on section on grant writing (for
 
 
 
-## Suggested Papers
+## Wishlist (you may either choose a paper from this list or suggest one).
 
  
 * [ Lo et al., Why significant variables aren’t automatically good predictors (PNAS, 2015) ] (http://www.pnas.org/content/112/45/13892.abstract)
