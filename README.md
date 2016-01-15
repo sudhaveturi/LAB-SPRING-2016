@@ -32,7 +32,7 @@ Grant proposals: if time permit we will include on section on grant writing (for
  * **Topic(s)**: DNA Methylation   
  * **Materials**: 
     * [Article](https://github.com/QuantGen/LAB-SPRING-2016/blob/master/Agustin_Paper_DNA%20Methylation.pdf)
-    * [Slides]()
+
  
 ----------------------------------------------------------------------------
 
@@ -43,8 +43,7 @@ Grant proposals: if time permit we will include on section on grant writing (for
  * **Topic(s)**: Identify Cis-eQTL Target Gene associated with GBM   
  * **Materials**:
     * [Article](https://github.com/QuantGen/LAB-SPRING-2016/blob/master/Hank_Paper_GBM%20eQTL.pdf)
-    * [Slides]()
- 
+
 ----------------------------------------------------------------------------
 
  * **Date**:  Wednesday, February 10, 2016.
@@ -54,7 +53,7 @@ Grant proposals: if time permit we will include on section on grant writing (for
  * **Topic(s)**: Limitation of GCTA   
  * **Materials**: 
     * [Article](http://www.pnas.org/content/113/1/E61.full.pdf)
-    * [Slides]()
+
 
 ----------------------------------------------------------------------------
 
@@ -76,7 +75,7 @@ Grant proposals: if time permit we will include on section on grant writing (for
  * **Topic(s)**: Significancy vs prediction power, partition retention method 
  * **Materials**:  
     * [Article](http://www.pnas.org/content/112/45/13892.abstract)
-    * [Slides]()
+
 
 ----------------------------------------------------------------------------
 
