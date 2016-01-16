@@ -82,9 +82,10 @@ Grant proposals: if time permit we will include on section on grant writing (for
  * **Date**:  Wednesday, March 2, 2016.
  * **Time**:  1:45-2:45pm
  * **Room**:  Central Conference Room
- * **Presenter(s)**: 
+ * **Presenter(s)**: Sudha
  * **Topic(s)**:    
  * **Materials**:    
+    * [Article1](http://www.nature.com/ng/journal/v47/n12/full/ng.3431.html) or [Article2](http://www.genetics.org/content/200/1/59)
 
 ----------------------------------------------------------------------------
 
